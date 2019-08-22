@@ -1,6 +1,6 @@
 # Dockerfile Examples
 
-.Dockerfile examples for different languages and platforms.
+.Dockerfile examples to dockerizing apps
 
 ## Getting Started
 
