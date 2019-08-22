@@ -14,14 +14,6 @@
 
 [NodeJS .Dockerfile](https://github.com/cagatayozata/dockerfile_examples/tree/master/nodeJS "NodeJS .Dockerfile") 
 
-### Prerequisites
-
-What things you need to install the software
-
-```
-Docker
-```
-
 ## Authors
 
 * **Çağatay Özata** - [cagatayozata](https://github.com/cagatayozata)
